@@ -1,6 +1,6 @@
 # Arduino-Car
 
-This was an Arduino car built with wires, a breadboard, motors, and sensors in my Elements of Engineering class. This repository contains the code files.
+This was an Arduino car built with wires, a breadboard, motors, and sensors in my Elements of Engineering class. This repository contains the Arduino code files.
 
 https://github.com/user-attachments/assets/d3012e9f-7d6c-4f8f-a445-c18cc95bf8f3
 
